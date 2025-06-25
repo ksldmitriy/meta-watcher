@@ -13,8 +13,8 @@
 #include <linux/highmem.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Memory Reader");
-MODULE_DESCRIPTION("Read memory from user space process");
+MODULE_AUTHOR("ksldmitriy");
+MODULE_DESCRIPTION("sets memory watchpoint");
 MODULE_VERSION("1.0");
 
 #define MAX_STACK_ENTRIES 64
